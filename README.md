@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Vaibhav Sonone
-- 👀 I’m programing  ...
-- 🌱 I’m currently react js ...
-- 💞️ I’m looking to collaborate on Web development ...
+- 👀 I’m programmer 
+- 🌱 I’m currently react js
+- 💞️ I’m looking to collaborate on Web development 
 - 📫 How to reach me
-- vaibhavsonone1111@gmail.com  ...
+- vaibhavsonone1111@gmail.com  
 
 <!---
 VaibhavSonone40/VaibhavSonone40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
