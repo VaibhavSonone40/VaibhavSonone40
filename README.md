@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaibhav Sonone
 - 👀 I’m programmer 
-- 🌱 I’m currently react js
+- 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on Web development 
 - 📫 How to reach me
 - vaibhavsonone1111@gmail.com  
